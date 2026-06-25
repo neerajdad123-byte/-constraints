@@ -1,0 +1,4 @@
+# Constraints file — edit via `/constraints` command, not by hand.
+# mode: "allowlist" (only listed files) or "denylist" (everything except listed)
+mode: allowlist
+patterns: []
